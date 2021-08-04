@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todos-list-test-for-deploy/static/css/main.a617e044.chunk.css",
+    "main.js": "/todos-list-test-for-deploy/static/js/main.2322e40b.chunk.js",
+    "main.js.map": "/todos-list-test-for-deploy/static/js/main.2322e40b.chunk.js.map",
+    "runtime-main.js": "/todos-list-test-for-deploy/static/js/runtime-main.d4b67a39.js",
+    "runtime-main.js.map": "/todos-list-test-for-deploy/static/js/runtime-main.d4b67a39.js.map",
+    "static/js/2.6089202a.chunk.js": "/todos-list-test-for-deploy/static/js/2.6089202a.chunk.js",
+    "static/js/2.6089202a.chunk.js.map": "/todos-list-test-for-deploy/static/js/2.6089202a.chunk.js.map",
+    "static/js/3.c54e16f4.chunk.js": "/todos-list-test-for-deploy/static/js/3.c54e16f4.chunk.js",
+    "static/js/3.c54e16f4.chunk.js.map": "/todos-list-test-for-deploy/static/js/3.c54e16f4.chunk.js.map",
+    "index.html": "/todos-list-test-for-deploy/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/todos-list-test-for-deploy/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6089202a.chunk.js.LICENSE.txt": "/todos-list-test-for-deploy/static/js/2.6089202a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4b67a39.js",
+    "static/js/2.6089202a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2322e40b.chunk.js"
+  ]
+}
